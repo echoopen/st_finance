@@ -22,7 +22,7 @@ button[kind="header"] {
     /* The navigation menu specs and size */
     section[data-testid='stSidebar'] > div {
         height: 100%;
-        width: 80px;
+        width: 65px;
         /* position: relative; */
         /* z-index: 1; */
         /* top: 0; */
@@ -42,7 +42,7 @@ button[kind="header"] {
 
     /* ON HOVER */
     section[data-testid='stSidebar'] > div:hover{
-    width: 240px;
+    width: 180px;
     }
 
     /* The button on the streamlit navigation menu - hidden */
