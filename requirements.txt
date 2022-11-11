@@ -1,0 +1,13 @@
+streamlit-on-Hover-tabs==1.0.1
+streamlit==1.11.0
+numpy
+pandas
+pyecharts
+st-material-table==0.0.4
+streamlit-aggrid==0.2.3
+pdpipe==0.3.2
+sklearn==0.0
+mne==1.1.0
+matplotlib==3.5.3
+
+
