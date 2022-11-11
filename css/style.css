@@ -34,6 +34,20 @@ button[kind="header"] {
         /* white-space: nowrap; */
     }
 
+    section[data-testid='stSidebar'] > div:nth-of-type(1) {
+        height: 100%;
+        width: 65px;
+        /* position: relative; */
+        /* z-index: 1; */
+        /* top: 0; */
+        /* left: 300; */
+        /* background-color: #111; */
+        /* overflow-x: hidden; */
+        transition: 0.5s ease;
+        /* padding-top: 0px; */
+        /* white-space: nowrap; */
+    }
+
     /* The navigation menu open and close on hover and size */
     /* section[data-testid='stSidebar'] > div {
     height: 100%;
@@ -59,4 +73,15 @@ button[kind="header"] {
 }
 .css-18e3th9{
     padding-top: 45px;
+    
+}
+
+
+.css-10xlvwk{
+    width: 12rem;
+    transition: 0.5s ease;
+}
+.css-1btde9g{
+    width: 12px;
+    transition: 1s ease;
 }
